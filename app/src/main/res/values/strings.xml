@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <!-- Teclado Numérico -->
+    <string name="um">1</string>
+    <string name="dois">2</string>
+    <string name="tres">3</string>
+    <string name="quatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="sete">7</string>
+    <string name="oito">8</string>
+    <string name="nove">9</string>
+    <string name="zero">0</string>
+    <!-- Operadores Matemáticos -->
+    <string name="divisao">/</string>
+    <string name="multi">*</string>
+    <string name="subt">-</string>
+    <string name="soma">+</string>
+
+    <string name="ponto">.</string>
+    <string name="igual">=</string>
+    <string name="limpar">C</string>
+    <string name="sair">X</string>
+    <!-- AlertDialog buttons -->
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
